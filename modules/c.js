@@ -1,0 +1,1 @@
+console.log("page C loaded just fine!");

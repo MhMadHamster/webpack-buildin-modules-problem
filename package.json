@@ -1,0 +1,12 @@
+{
+  "name": "webpack-buildin-modules-problem",
+  "version": "1.0.0",
+  "license": "MIT",
+  "dependencies": {
+    "js-htmlencode": "0.3.0",
+    "mobx": "3.4.1",
+    "react": "16.2.0",
+    "react-dom": "16.2.0",
+    "webpack": "3.10.0"
+  }
+}
